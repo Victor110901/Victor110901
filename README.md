@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello everyone, welcome to my profile on github
+### My name is Victor Campolina and I'm 23 years old
 
-<!--
-**Victor110901/Victor110901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Victor110901">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor110901&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  ##
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/victor-campolina-9a8a64185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+ 
+ 
